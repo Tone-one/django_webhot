@@ -1,0 +1,3 @@
+python manage.py makemigrations  告诉了django,模型有变化
+
+python manage.py migrate 同步数据库创建表单
